@@ -1,1 +1,1 @@
-worker:python dataset.py
+web:python dataset.py
