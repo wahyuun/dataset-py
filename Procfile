@@ -1,1 +1,1 @@
-web: gunicorn dataset:app
+worker: python dataset.py
