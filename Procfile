@@ -1,1 +1,1 @@
-web:python dataset.py
+web: sh setup.sh && streamlit run dataset.py
