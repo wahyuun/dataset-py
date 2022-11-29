@@ -1,1 +1,1 @@
-web: gunicorn dataset:app --log-file
+web: gunicorn dataset:app
